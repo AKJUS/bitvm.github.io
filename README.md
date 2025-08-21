@@ -23,8 +23,10 @@ BitVM is the foundational element to bridge BTC to second layers such as sidecha
 - [Tree++ overview](treeplusplus.md)
 - [Awesome BitVM](https://github.com/Rsync25/awesome-bitvm)
 
+
+
 ### Presentations & Podcasts
-- [BitVM 2 at Science of Blockchain Conference in Berkeley](https://www.youtube.com/live/84tBYn6qot8?feature=shared&t=7196)
+- [BitVM2 at Science of Blockchain Conference in Berkeley](https://www.youtube.com/live/84tBYn6qot8?feature=shared&t=5337)
 - [Robin Linus and Lukas George at Bitcoin Amsterdam](https://www.youtube.com/watch?v=rubs5SrkGsM)
 - [What is BitVM? with Robin Linus and Super Testnet (Stephan Livera Podcast)](https://www.youtube.com/watch?v=XxqQU6j6jI8)
 - [Robin Linus at Brink Foundation](https://brink.dev/blog/2024/01/16/eng-call-bitvm)
