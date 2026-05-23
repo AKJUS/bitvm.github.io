@@ -39,25 +39,6 @@ BitVM is the foundational element to bridge BTC to second layers such as sidecha
 - [Introducing BitVM at MIT Bitcoin Expo 2024](https://www.youtube.com/watch?v=nhR_g9hPnqM)
 
 
-## About BitVM Alliance
-
-The BitVM Alliance was founded by Robin Linus and Lukas George to accelerate the development and implementation of BitVM project. This strategic partnership brings together leading projects and teams dedicated to advancing BitVM development.
-
-By combining expertise and resources, the alliance aims to expedite the delivery of the first BitVM bridges while ensuring robust security and innovative solutions. The collaborative nature of the alliance enables rapid knowledge sharing, coordinated development efforts, and comprehensive peer review of critical components.
-
-Current members of the BitVM Alliance include (in alphabetical order):
-
-- [Alpen](https://x.com/AlpenLabs)
-- [Babylon](https://x.com/babylonlabs_io)
-- [Bitlayer](https://x.com/BitlayerLabs)
-- [BOB](https://x.com/build_on_bob)
-- [Citrea](https://x.com/citrea_xyz)
-- [Element](https://x.com/element_labs42)
-- [Fiamma](https://x.com/fiamma_labs)
-- [GOAT network](https://www.goat.network)
-- [{ ideal }](https://ideal.group)
-- [ZeroSync](https://x.com/ZeroSync_)
-
 
 ## Contributors
 The BitVM project is lead by its inventor, [Robin Linus](https://robinlinus.com), together with Lukas George and Stillsaiko. Special thanks to Super Testnet, Carsten Munk, Hakan Karakuş, Weikeng Chen, and Steven Roose for their code contributions. We're also collaborating in research projects together with Liam Eagen, Alexei Zamyatin, Distributed Lab, as well as Matteo Maffei's and Zeta Avarikioti's group at TU Vienna, and David Tse's group at Stanford.
