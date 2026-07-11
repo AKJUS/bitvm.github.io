@@ -48,4 +48,5 @@ BitVM is developed as free and open source software under the umbrella of the [Z
 ### Want to Contribute?
 - Join the [Telegram group](https://t.me/bitVM_chat)
 
-- Beware of [Scammers](https://medium.com/@yttriumox/i-was-targeted-by-a-sophisticated-malware-attack-disguised-as-a-podcast-invitation-36ad6c9ea076) trying to trick you into installing malware pretending to be conference software. 
+- Help stop [DAC8](https://dac8.com/) mass surveillance of crypto holders.
+
